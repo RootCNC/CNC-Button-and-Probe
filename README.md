@@ -2,20 +2,30 @@
 
 # About
 Easy way to add convenient buttons to your CNC Machine. It offers buttons for common actions like, Hold, Start, Macro. it also offers a easy accessible probe point via 4mm banana plugs
-![Root Controller Render ](https://github.com/RootCNC/CNC-Button-and-Probe/blob/main/Media/20220202_214222.jpg)
+![Button mount](https://github.com/RootCNC/CNC-Button-and-Probe/blob/main/Media/20220202_214222.jpg)
 
 ## Key features 
 1. Easy breakout and wiring of frequently used buttons and probe mount
 2. Built in current limit resistors for LED button
 
 ## Optional Configurations
-The button functions can be changed in software to suit your needs and the text on the printed part can reflect those functions, the list below identifies the current button options. If you would like other arrangments please let me know.
+The button functions can be changed in software to suit your needs and the text on the printed part can reflect those functions, the list below identifies the current button options. If you would like other arrangements please let me know.
 
 1. Macro - Start - Hold
 2. Reset - Start - Hold
 3. Macro - Macro - Macro
 4. Macro - Start - Reset
 
+## Wiring
+The design implements a cheap PCB breakout to aid and ease the wiring of the buttons and allow the use of cheaper LED push buttons due to the PCB having the current limiting resistors on the board, rather than in the switch. It offers easy to solder to test pads which are easily identifiable on the PCB .
+
+These can be purchased on the Root CNC store - link below.
+![Easy Wire PCB ](https://github.com/RootCNC/CNC-Button-and-Probe/blob/main/Media/20220202_210839.jpg)
+
+
+## Purchase
+The Root Controller Buttons can be purchased on the Root CNC store
+[GOTO SHOP](https://rootcnc.com/product-category/electronics/)
 
 ## Require Parts
 The product requires parts to be sourced or printed externally
@@ -27,9 +37,7 @@ The product requires parts to be sourced or printed externally
 6. 3mm x 10mm Bolts x2
 
 
-## Purchase
-The Root Controller Buttons can be purchased on the Root CNC store
-[GOTO SHOP](https://rootcnc.com/product-category/electronics/)
+
 
 ## What is Root CNC
 For Root CNC project information 
